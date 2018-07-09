@@ -1,1 +1,1 @@
-# LGTechDegreeProject1
+# Laura Gould Techdegree Project 1

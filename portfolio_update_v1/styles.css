@@ -97,7 +97,7 @@ header .profile-image {
   transition: all .5s;
 
   border: 3px solid white;
-  border-radius: 50%;
+  border-radius: 10%;
 }
 
 header .profile-image:hover {
@@ -160,16 +160,13 @@ header .profile-image:hover {
 
 ul.skills {
   padding: 0;
-
   text-align: center;
 }
 
 .skills li {
   display: inline-block;
-
   margin: 2px;
   padding: 5px 10px;
-
   color: white;
   border-radius: 6px;
   background: #9CA3AA;
@@ -187,6 +184,7 @@ table, th, td {
 
 th {
   text-align: center;
+  background-color: #efefef
 }
 
 footer {

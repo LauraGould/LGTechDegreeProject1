@@ -6,12 +6,9 @@
 body {
   margin: 0;
   padding: 0;
-
   text-align: center;
-
   color: #222;
   background: #efefef;
-
   font-family: "Helvetica", sans-serif;
 }
 
@@ -19,7 +16,6 @@ body {
 
 a {
   text-decoration: none;
-
   color: #9CA3AA;
 }
 
